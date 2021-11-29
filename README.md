@@ -18,7 +18,18 @@
 
 ![india](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDIg_4f0OV8WpcPmqmlD_h8UZ5MkcxckEWXQ&usqp=CAU)
 
-*Fruits
-  *sathvika
-  *sathi pandu
-  *megha pandu
+* Fruits
+  * mango
+  * kiwi
+1.  vegetables
+    1.  mango
+    2.  onions
+    
+sno|Name
+----|----
+1|Sakhitha
+2|Bhavitha
+
+~~This was mistaken text~~
+
+> Text that is a quote
